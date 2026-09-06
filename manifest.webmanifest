@@ -1,7 +1,7 @@
 {
-  "name": "SmartLinkBox Customers",
-  "short_name": "SmartLinkBox",
-  "description": "إدارة عملاء SmartLinkBox والتواصل التجاري",
+  "name": "إدارة العملاء",
+  "short_name": "إدارة العملاء",
+  "description": "تطبيق إدارة العملاء والتواصل التجاري",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "./",
